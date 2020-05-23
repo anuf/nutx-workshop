@@ -6,8 +6,11 @@ A taste on __nuxt__ with __vue__ to create Universal applications.
 
 ## Installation
 npm install nuxt
+
 npm intall axios
+
 npm install vue-router
+
 nmp install bulma
 
 
@@ -16,5 +19,7 @@ npm run dev
 
 ## Docs
 [Bulma CSS framework](https://bulma.io/)
+
 [Vue router](https://router.vuejs.org/)
+
 [Use axios to consume APIs](https://vuejs.org/v2/cookbook/using-axios-to-consume-apis.html)
