@@ -5,13 +5,7 @@ A taste on __nuxt__ with __vue__ to create Universal applications.
 [https://codigofacilito.com/cursos/taller-nuxt-vue](https://codigofacilito.com/cursos/taller-nuxt-vue)
 
 ## Installation
-npm install nuxt
-
-npm intall axios
-
-npm install vue-router
-
-nmp install bulma
+npm install nuxt axios vue-router bulma
 
 
 ## Execution
